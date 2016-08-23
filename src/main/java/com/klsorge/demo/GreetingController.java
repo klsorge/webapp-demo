@@ -1,4 +1,4 @@
-package org.eclipse.che.examples;
+package com.klsorge.demo;
 
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;
